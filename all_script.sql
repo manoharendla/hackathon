@@ -1,0 +1,1 @@
+SELECT * FROM hackathon.application_health_check;
